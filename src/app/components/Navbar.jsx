@@ -22,6 +22,7 @@ const Navbar = () => {
                         <a key={item.link} href={item.link} className="btn btn-ghost normal-case">
                             {item.name}
                         </a>
+                        
                     ))}
                 </div>
                 
