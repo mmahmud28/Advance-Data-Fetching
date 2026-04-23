@@ -9,6 +9,9 @@ const Navbar = () => {
         {
             name: 'Projects',
             link: '/projects'
+        }, {
+            name: 'Contact',
+            link: '/contact'
         }
     ];
     return (
